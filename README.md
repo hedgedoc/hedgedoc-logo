@@ -11,4 +11,7 @@
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines8.png)
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines9.png)
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines10.png)
+![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines11.png)
+![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines12.png)
+![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines13.png)
 
