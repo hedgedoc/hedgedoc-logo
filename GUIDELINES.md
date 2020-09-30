@@ -27,7 +27,7 @@ hex	  #000000rgb	  0   0   0cmyk  60  40  40  100
 
 ## Credits
 
-Logotype design  Éric Gaspar,studio [ÉricandMarie](www.ericandmarie.com), Paris
+Logotype design  Éric Gaspar,studio [ÉricandMarie](https://www.ericandmarie.com), Paris
 
 ## License
 
