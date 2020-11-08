@@ -1,6 +1,4 @@
-[comment]: # (HedgeDoc Logotype graphic guidlines. version 1.0)
-
-## The HedgeDoc Logo [Graphic-Guidlines_v.1.0.pdf](Graphic-Guidlines/Graphic-Guidlines_v.1.0.pdf)
+## You can download the HedgeDoc Logotype [Graphic-Guidlines_v.1.0.pdf](Graphic-Guidlines/Graphic-Guidlines_v.1.0.pdf) and consult the [Usage Guidelines](USAGE_GUIDELINES.md) recommendations.
 
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines.png)
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines2.png)
@@ -15,4 +13,5 @@
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines11.png)
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines12.png)
 ![](Graphic-Guidlines/Guidlines_PNG/Graphic-Guidlines13.png)
+
 
