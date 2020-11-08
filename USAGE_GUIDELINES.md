@@ -30,4 +30,4 @@ All usages and modifications to The HedgeDoc Logo must fulfill the [graphic guid
 
 You have questions about the terms or are unsure if your usage needs an explicit permission? You just want to chat? Contact us on [Matrix](https://matrix.to/#/#hedgedoc:matrix.org).
 
-But be aware, explicit permission can only be granted via [E-Mail](logo@hedgedoc.org).
+But be aware, explicit permission can only be granted via [E-Mail](mailto:logo@hedgedoc.org).
