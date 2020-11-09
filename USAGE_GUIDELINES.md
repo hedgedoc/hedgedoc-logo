@@ -24,7 +24,7 @@ All usages and modifications to The HedgeDoc Logo must fulfill the [graphic guid
 
 2. To ensure consistent quality of packaging and to reduce confusion, you may not use The HedgeDoc Logo without explicit permission when distributing repackaged or preinstalled versions of HedgeDoc. 
 
-3. To make sure that online communities probably represent the project, you may not use The HedgeDoc Logo without explicit permission to organise or identify online communities of any kind. If you want to join an online community about HedgeDoc join our Matrix room [#hedgedoc:matrix.org](https://matrix.to/#/#hedgedoc:matrix.org).
+3. To make sure that online communities represent the project properly, you may not use The HedgeDoc Logo without explicit permission to organise or identify online communities of any kind. If you want to join an online community about HedgeDoc join our Matrix room [#hedgedoc:matrix.org](https://matrix.to/#/#hedgedoc:matrix.org).
 
 ## Contact us
 
