@@ -2,11 +2,11 @@
 
 ## The HedgeDoc Logo
 
-“The HedgeDoc Logo” encompasses all copyrighted graphic artworks and variants at https://github.com/codimd/hedgedoc-logo.
+“The HedgeDoc Logo” encompasses all copyrighted graphic artworks and variants at https://github.com/hedgedoc/hedgedoc-logo.
 
 ## Graphic guidelines
 
-All usages and modifications to The HedgeDoc Logo must fulfill the [graphic guideline](https://github.com/codimd/hedgedoc-logo/blob/main/Graphic-Guidlines/Graphic-Guidlines_v.1.0.pdf)
+All usages and modifications to The HedgeDoc Logo must fulfill the [graphic guideline](https://github.com/hedgedoc/hedgedoc-logo/blob/main/Graphic-Guidlines/Graphic-Guidlines_v.1.0.pdf)
 
 ## Usage that *does not* require permission
 
