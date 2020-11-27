@@ -10,7 +10,7 @@ All usages and modifications to The HedgeDoc Logo must fulfill the [graphic guid
 
 ## Usage that *does not* require permission
 
-1. You may use The HedgeDoc Logo to identify your HedgeDoc installation if you have not made any modifications to HedgeDoc itself. You are of course allowed to make modifications, but then you MUST remove our Logo as it is no longer HedgeDoc. Modifications to HedgeDoc here are defined as those which would would require you to provide them in source form to any user who asks under the license of the AGPLv3.
+1. You may use The HedgeDoc Logo to identify your HedgeDoc installation if you have not made any modifications to HedgeDoc itself. You are of course allowed to make modifications, but then you MUST remove our Logo as it is no longer HedgeDoc. Modifications to HedgeDoc here are defined as those which would require you to provide them in source form to any user who asks under the license of the AGPLv3.
 
 2. Conferences and events are a big part of every open source community, therefore you may use The HedgeDoc Logo to promote the project at conferences and events. 
 
